@@ -1,0 +1,4 @@
+bin/
+*.class
+*.swp
+*.DS_Store
